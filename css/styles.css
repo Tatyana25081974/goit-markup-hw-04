@@ -164,6 +164,9 @@ img {
     padding: 188px 0;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url("../images/peopleoffice.jpg");
     background-color: rgba(46, 47, 66, 0.7);
+    width: 1440px;
+    margin-right: auto;
+    margin-left: auto;
 }
 .content-title {
     

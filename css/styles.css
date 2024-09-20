@@ -233,6 +233,16 @@ box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     gap: 24px;
 
 }
+.peculiarities-icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    border: 1px solid #8e8f99;
+    margin-bottom: 8px
+}
 .peculiarities-item {
     flex-basis: calc((100% - 3 * 24px) / 4);
     

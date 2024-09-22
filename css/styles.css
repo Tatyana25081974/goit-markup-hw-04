@@ -71,8 +71,7 @@ img {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-    margin-right: 76px;
-    padding: 24px 0;
+    
      }
 .header-logo {
     padding: 24px 0;
@@ -489,7 +488,7 @@ box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 }
 .footer-logo {
     display: inline-block;
-   
+   margin-bottom: 16px;
 }
 .container-footer {
     display: flex;

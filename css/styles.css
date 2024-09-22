@@ -325,6 +325,7 @@ box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;
+    margin-bottom: 8px;
 }
 .social-list {
     display: flex;
@@ -488,7 +489,7 @@ box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 }
 .footer-logo {
     display: inline-block;
-    margin-bottom: 16px;
+   
 }
 .container-footer {
     display: flex;
